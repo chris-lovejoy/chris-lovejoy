@@ -30,15 +30,16 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/c/ChrisLovejoy?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+    <a href= "https://www.chrislovejoy.me">
+    <img src="https://img.shields.io/badge/Website-Personal?style=for-the-badge&color=gray&logo=C&logoColor=white"/>
+  </a>
   <a href="https://twitter.com/ChrisLovejoy_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://chrislovejoy.substack.com">
     <img src="https://img.shields.io/badge/Substack-Blue?style=for-the-badge&color=orange&logo=Substack&logoColor=white" alt="Substack Badge"/>
   </a>
-  <a href= "https://www.chrislovejoy.me">
-    <img src="https://img.shields.io/badge/Website-Personal?style=for-the-badge&color=gray&logo=C&logoColor=white"/>
-  </a>
+
     <a href="https://chris-lovejoy.medium.com">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&color=black&logo=Medium&logoColor=white"/>
   </a>  
