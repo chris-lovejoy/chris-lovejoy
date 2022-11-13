@@ -61,13 +61,8 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
 </br>
 
 
-[add contribution calendar]
-
-
 ## Latest Activity
 <!--START_SECTION:activity-->
-
-]
 
 
 ---
