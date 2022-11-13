@@ -51,7 +51,7 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
 
 ---
 
-## Active Projects
+## Overview
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-lovejoy&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
@@ -60,17 +60,6 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-lovejoy&layout=compact&langs_count=10&theme=github_dark&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
 </br>
-
-
-## Latest Activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/chris-lovejoy/chris-lovejoy/issues/1) in [chris-lovejoy/chris-lovejoy](https://github.com/chris-lovejoy/chris-lovejoy)
-2. 🎉 Merged PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
-3. ❌ Reopened PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
-4. ❌ Closed PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
-5. 💪 Opened PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
-<!--END_SECTION:activity-->
-
 
 ---
 
