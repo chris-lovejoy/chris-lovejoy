@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on [twitter](https://twitter.com/ChrisLovejoy_) <img display="inline" width=16px src="https://gist.githubusercontent.com/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg" /> !
 
-<div id="badges">
+<div id="badges" align="center">
+  <a href= "https://github.com/chris-lovejoy/">
+    <img src="https://img.shields.io/badge/Github-Blue?style=for-the-badge&color=green&logo=Github&logoColor=white" alt="Github Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/dr-christopher-lovejoy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -32,32 +35,21 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
   <a href="https://twitter.com/ChrisLovejoy_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://chrislovejoy.substack.com">
+    <img src="https://img.shields.io/badge/Substack-Blue?style=for-the-badge&color=blue&logo=Substack&logoColor=white" alt="Substack Badge"/>
+  </a>
 </div>
 
 ---
 
 <p align="center">
-  <a href= "https://github.com/chris-lovejoy/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/dr-christopher-lovejoy/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-  </a>
-  <a href= "https://twitter.com/ChrisLovejoy_">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
-  </a>
   <a href= "https://www.chrislovejoy.me">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
-  <a href="https://www.youtube.com/c/ChrisLovejoy?sub_confirmation=1">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/>
   </a>
   <a href="https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
   </a>
-  <a href="https://chrislovejoy.substack.com">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/envelope.png"/>
-  </a>
+
   <a href="https://chris-lovejoy.medium.com">
     <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
   </a>  
