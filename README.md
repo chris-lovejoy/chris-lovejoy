@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on [twitter](https://twitter.com/ChrisLovejoy_) <img display="inline" width=16px src="https://gist.githubusercontent.com/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg" /> !
-
 <div id="badges" align="center">
   <!-- <a href= "https://github.com/chris-lovejoy/">
     <img src="https://img.shields.io/badge/Github-Blue?style=for-the-badge&color=green&logo=Github&logoColor=white" alt="Github Badge"/>
@@ -49,7 +47,6 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
   </a>  
 </div>
 
----
 
 ## Overview
 
