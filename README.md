@@ -41,8 +41,8 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
   <a href="https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
   </a>
-  <a href="chrislovejoy.substack.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/59835/secured-letter.png"/>
+  <a href="https://chrislovejoy.substack.com">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/envelope.png"/>
   </a>
   <a href="https://chris-lovejoy.medium.com">
     <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
