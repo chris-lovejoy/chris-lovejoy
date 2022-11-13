@@ -1,7 +1,7 @@
 
 ### Hi! 👋 I’m Chris Lovejoy.
 
-I’m the co-founder of [Billions Health](https://www.chrislovejoy.me/www.billions.health/) (Chief Technology Officer) and [ExplainThisPaper.com](https://explainthispaper.com/) (Chief Scientific Officer).
+I’m the co-founder of [Billions Health](www.billions.health/) (Chief Technology Officer) and [ExplainThisPaper.com](https://explainthispaper.com/) (Chief Scientific Officer).
 
 I’ve been a Data Scientist, Medical Doctor, Academic Researcher and worked at a fast-growing healthtech start-up ([Cera Care](https://ceracare.co.uk/)). I have a [YouTube Channel](https://www.youtube.com/c/ChrisLovejoy) and [wrote a book](https://amzn.to/2HFGoQY).
 
@@ -59,6 +59,16 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-lovejoy&layout=compact&langs_count=10&theme=github_dark&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
 </br>
+
+
+[add contribution calendar]
+
+
+## Latest Activity
+<!--START_SECTION:activity-->
+
+]
+
 
 ---
 
