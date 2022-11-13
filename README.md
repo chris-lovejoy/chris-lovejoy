@@ -36,25 +36,20 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://chrislovejoy.substack.com">
-    <img src="https://img.shields.io/badge/Substack-Blue?style=for-the-badge&color=blue&logo=Substack&logoColor=white" alt="Substack Badge"/>
+    <img src="https://img.shields.io/badge/Substack-Blue?style=for-the-badge&color=orange&logo=Substack&logoColor=white" alt="Substack Badge"/>
   </a>
+  <a href= "https://www.chrislovejoy.me">
+    <img src="https://img.shields.io/badge/Website-Personal?style=for-the-badge&color=gray&logo=C&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ">
+    <img src="https://img.shields.io/badge/Papers-Academic?style=for-the-badge&color=blue&logo=Google-Scholar&logoColor=white"/>
+  </a>
+    <a href="https://chris-lovejoy.medium.com">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&color=black&logo=Medium&logoColor=white"/>
+  </a>  
 </div>
 
 ---
-
-<p align="center">
-  <a href= "https://www.chrislovejoy.me">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
-  <a href="https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
-  </a>
-
-  <a href="https://chris-lovejoy.medium.com">
-    <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
-  </a>  
-</p>
-
 
 ## Active Projects
 
