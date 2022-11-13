@@ -39,12 +39,12 @@ Here are some ideas to get you started:
   <a href= "https://www.chrislovejoy.me">
     <img src="https://img.shields.io/badge/Website-Personal?style=for-the-badge&color=gray&logo=C&logoColor=white"/>
   </a>
-  <a href="https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ">
-    <img src="https://img.shields.io/badge/Papers-Academic?style=for-the-badge&color=blue&logo=Google-Scholar&logoColor=white"/>
-  </a>
     <a href="https://chris-lovejoy.medium.com">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&color=black&logo=Medium&logoColor=white"/>
   </a>  
+ <a href="https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ">
+    <img src="https://img.shields.io/badge/Papers-Academic?style=for-the-badge&color=blue&logo=Google-Scholar&logoColor=white"/>
+  </a>
 </div>
 
 
