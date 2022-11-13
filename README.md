@@ -69,6 +69,12 @@ Feel free to check out my [website](https://www.chrislovejoy.me) or follow me on
 
 ## Latest Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/chris-lovejoy/chris-lovejoy/issues/1) in [chris-lovejoy/chris-lovejoy](https://github.com/chris-lovejoy/chris-lovejoy)
+2. 🎉 Merged PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
+3. ❌ Reopened PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
+4. ❌ Closed PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
+5. 💪 Opened PR [#40](https://github.com/chris-lovejoy/geetle/pull/40) in [chris-lovejoy/geetle](https://github.com/chris-lovejoy/geetle)
+<!--END_SECTION:activity-->
 
 
 ---
