@@ -22,6 +22,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="stats" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-lovejoy&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
+  </a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-lovejoy&layout=compact&langs_count=10&theme=github_dark&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a> -->
+</div>
+</br>
+
+
 <div id="badges" align="center">
   <!-- <a href= "https://github.com/chris-lovejoy/">
     <img src="https://img.shields.io/badge/Github-Blue?style=for-the-badge&color=green&logo=Github&logoColor=white" alt="Github Badge"/>
@@ -48,16 +59,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Papers-Academic?style=for-the-badge&color=blue&logo=Google-Scholar&logoColor=white"/>
   </a>
 </div>
-
-<div id="stats" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-lovejoy&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
-  </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-lovejoy&layout=compact&langs_count=10&theme=github_dark&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a> -->
-</div>
-</br>
 
 ---
 
