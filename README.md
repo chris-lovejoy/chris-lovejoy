@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="stats" align="center">
+<!--<div id="stats" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-lovejoy&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
   </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-lovejoy&layout=compact&langs_count=10&theme=github_dark&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a> -->
-</div>
+</a>
+</div>-->
 </br>
 
 
