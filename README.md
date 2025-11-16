@@ -1,9 +1,7 @@
 
 ### Hi! 👋 I’m Chris Lovejoy.
 
-I’m the co-founder of a healthtech start-up (Chief Technology Officer) and [ExplainThisPaper.com](https://explainthispaper.com/) (Chief Scientific Officer).
-
-I’ve been a Machine Learning Engineer, Data Scientist, Medical Doctor, Academic Researcher and worked at a fast-growing healthtech start-up ([Cera Care](https://ceracare.co.uk/)). I have a [YouTube Channel](https://www.youtube.com/c/ChrisLovejoy) and [wrote a book](https://chrislovejoy.gumroad.com/l/medstudentmanual) about learning.
+I’m an applied AI engineer. I've previously been a start-up founder, machine learning engineer, medical doctor and academic researcher. I also have a [YouTube Channel](https://www.youtube.com/c/ChrisLovejoy) and [wrote a book](https://chrislovejoy.gumroad.com/l/medstudentmanual) about learning.
 
 ---
 
