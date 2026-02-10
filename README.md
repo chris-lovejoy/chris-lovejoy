@@ -1,7 +1,11 @@
 
 ### Hi! 👋 I’m Chris Lovejoy.
 
-I’m an applied AI engineer. I've previously been a start-up founder, machine learning engineer, medical doctor and academic researcher. I also have a [YouTube Channel](https://www.youtube.com/c/ChrisLovejoy) and [wrote a book](https://chrislovejoy.gumroad.com/l/medstudentmanual) about learning.
+I’m an applied AI engineer building AI products for complex, domain-specific verticals like healthcare.
+
+**Previously:** Founding team at [Anterior](https://www.anterior.com/) (healthcare LLM startup [backed by Sequoia/NEA](https://www.anterior.com/insights/company-news/anterior-secures-usd20-million-series-a-to-unlock-administrative-efficiencies-for-healthcare)), [medical doctor](https://chrislovejoy.me/medicine), [academic researcher](https://scholar.google.co.uk/citations?user=g3MOrpcAAAAJ), and ML engineer.
+
+I write at [chrislovejoy.me](https://www.chrislovejoy.me) about building vertical AI products that generate real-world value. I previously wrote [a book about learning medicine](https://www.amazon.co.uk/gp/product/1973413590), ran [a YouTube channel](https://www.youtube.com/c/ChrisLovejoy), and [lectured on AI for healthcare](https://chrislovejoy.me/ml4h).
 
 ---
 
